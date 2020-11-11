@@ -11,7 +11,7 @@
 
 There are two parts for the web app:
 
-The server
+##The server
 
 `cd /citibike-server`
 
@@ -19,7 +19,10 @@ This is the node socket.io Server app to start :
 
 `npm start`
 
-Then run the client app
+This command will only run the server to consume the api rest given for this exercise and send the data via Socket.io 
+
+
+##Then run the client app
 
 `cd /citibike-client`
 
