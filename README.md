@@ -27,6 +27,8 @@ That is the client React Application to start :
 
 `npm start`
 
+This command will deploy the map center at maimi location with all the markers corresponding to each bike station. When you click on each marker will pop up the info related with its availables bikes, empty slots and its address. 
+
 
 
 
